@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'ev-test-appservice'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_48714dfcaba34a85898abf36995e40d4 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6f67951fa78c4a3a912631d764e602fb }}
         package: .
